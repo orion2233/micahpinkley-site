@@ -2,8 +2,6 @@
 
 A simple example person site.
 
-![simple personal website](./assets/simple-personal-website.png)
-
 ## get started
 
 * create a github account
